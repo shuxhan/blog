@@ -1,3 +1,5 @@
-## typecho 博客主题备份
+## Han
+Typecho 主题
 
-主题名为 Han（寒）。
+## Author
+[子舒](https://shuxhan.com)
