@@ -1,0 +1,18 @@
+@charset 'utf-8';
+@media(min-width: 760px) {
+ 
+    #theContentIndex>ul{
+        max-height: 500px !important;
+        overflow-y: scroll;
+    }
+ 
+    #theContentIndex li {
+        margin: 2px 0;
+    }
+    #theContentIndex li a{
+        color: #666;
+    }
+    #theContentIndex li:hover a {
+        color: #444;
+    }
+}
