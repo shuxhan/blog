@@ -1,4 +1,4 @@
-this is my blog repo.
+## shuxhan.github.io
 
 站点: [https://shuxhan.com](https://shuxhan.com)
 
