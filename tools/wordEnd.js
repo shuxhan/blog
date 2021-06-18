@@ -1,6 +1,6 @@
 /* name: workEnd.js
 *  author: shuxhan
-*  guide: 下班倒计时，可以在变量message修改下班时间
+*  Description: 下班倒计时，可以在变量message修改下班时间
 *         只用写时和分，自动获取当天日期
 */
 var workEnd = function () {
